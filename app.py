@@ -5,7 +5,7 @@ from PIL import Image
 
 
 #config 1
-st.set_page_config(page_title="Valerapp", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="WebApp", page_icon="🤖", layout="wide")
 
 # archivo CSS 4
 def load_lottieurl(url):
@@ -25,12 +25,12 @@ lottie_file ="https://assets9.lottiefiles.com/packages/lf20_ggwq3ysg.json"
 
 # encabezado 1.1
 with st.container():
-    st.subheader("Hola, somos Valerapp :wave:")
+    st.subheader("Hola, somos WebApp :wave:")
     st.title("Creamos soluciones para acelerar tu negocio")
     st.write(
         "Somos unos apasionados de la tecnología y la innovación, especializados en el sector de la digitalización y automatización de negocios. Nos gusta crear soluciones para resolver problemas y mejorar procesos."
     )
-    st.write("[Saber más >](https://valerapp.com/)")
+    st.write("[Saber más >](https://www.webfx.com/tools/emoji-cheat-sheet/)")
 
 
 
