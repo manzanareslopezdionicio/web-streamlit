@@ -32,8 +32,6 @@ with st.container():
     )
     st.write("[Saber más >](https://www.webfx.com/tools/emoji-cheat-sheet/)")
 
-
-
 # sobre nosotros 2
 with st.container():
     st.write("---")
